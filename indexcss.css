@@ -3,7 +3,7 @@
 }
 
 #rings{
-    width:100px;
+    width:150px;
     height: auto;
 }
 .header1{ 
@@ -15,4 +15,21 @@
 
 p{
     font-family: 'Cabin', sans-serif;
+}
+
+.usttoparlayici{
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image{
+    float: left;
+    margin-left: 10px;
+    margin-right: auto;
+}
+
+.h1{
+    float: left;
+    text-align: center;
+    margin-left: auto;
 }
