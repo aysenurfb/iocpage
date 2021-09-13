@@ -38,11 +38,11 @@ p{
 }
 
 nav{
-    width: 960px;
+    width: 956px;
     height: auto;
     background-color:skyblue;
     float: left;
-    padding-left: 370px;
+    padding-left: 366px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -83,8 +83,24 @@ h2{
 
 h3{
     position: absolute;
-    top: 300px;
+    top: 10px;
     font-family: 'Cabin', sans-serif;
     font-size: 35px;
+    left: 40px;
+}
+
+#wharticle{
+    position: absolute;
+    top: 60px;
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+    left: 40px;
+}
+
+#ringarticle{
+    position: absolute;
+    top: 60px;
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
     left: 40px;
 }
