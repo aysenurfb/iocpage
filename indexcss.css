@@ -38,11 +38,11 @@ p{
 }
 
 nav{
-    width: 500px;
+    width: 200px;
     height: auto;
-    background-color: orchid;
+    background-color: burlywood;
     float: left;
-    padding-left: 200;
+    
 }
 
 ul{
@@ -51,6 +51,14 @@ ul{
     padding: 0;
 }
 
-li{
+li.a{
     float: left;
+    font-family: 'Cabin', sans-serif;
+    font-size: 15px;
+    display: block;
+    text-align: center;
+}
+
+a:hover{
+    font-weight: bolder;
 }
