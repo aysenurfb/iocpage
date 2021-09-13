@@ -41,4 +41,5 @@ nav{
     width: 500;
     height: auto;
     background-color: olive;
+    float: left;
 }
