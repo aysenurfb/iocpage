@@ -32,4 +32,6 @@ p{
     float: left;
     text-align: center;
     margin-left: auto;
+    width: auto;
+    height: auto;
 }
