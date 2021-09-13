@@ -1,10 +1,9 @@
-.all{
+#all{
     width: 1330px;
-    background-color:moccasin;
+    background-color:red;
 }
 
-.header1{
-    background-color: bisque; 
+.header1{ 
     width: 1330px; 
     height: auto; 
     padding: 10px;
