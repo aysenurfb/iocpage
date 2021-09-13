@@ -2,9 +2,17 @@
     width: 1330px;
 }
 
+#rings{
+    width:100px;
+    height: auto;
+}
 .header1{ 
     background-color: rosybrown;
     width: 1330px; 
     height: auto; 
     padding: 10px;
+}
+
+p{
+    font-family: 'Cabin', sans-serif;
 }
