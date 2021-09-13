@@ -1,0 +1,26 @@
+header{
+    width: 1330px;
+    height: auto;
+    margin-top: 10px;
+    background-color: skyblue;
+    text-align: center;
+    padding: 300px;
+}
+
+h1{
+    font-family: 'Cabin', sans-serif;
+    font-size: 35px;
+}
+
+footer{
+    float: left;
+    width: 1324px;
+    height: auto;
+    background-color:teal;
+    
+}
+#footerp{
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+    padding-left: 430px;
+}
