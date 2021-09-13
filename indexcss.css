@@ -40,9 +40,11 @@ p{
 nav{
     float: left;
     background: mediumturquoise;
+    margin: 0 auto 0 auto;
 }
 
 a{
     font-family: 'Cabin', sans-serif;
     font-size: 30px;
 }
+
