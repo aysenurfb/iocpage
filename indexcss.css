@@ -42,6 +42,7 @@ nav{
     height: auto;
     background-color: orchid;
     float: left;
+    padding-left: 200;
 }
 
 ul{
