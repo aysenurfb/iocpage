@@ -26,8 +26,8 @@ p{
 }
 .image{
     float: left;
-    margin-left: 10px;
-    margin-right: auto;
+    margin-left: auto;
+    margin-right: 10px;
 }
 
 .h1{
