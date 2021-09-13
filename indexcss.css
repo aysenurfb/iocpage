@@ -37,3 +37,23 @@ p{
     height: auto;
 }
 
+nav {
+    background: #f1dabfff;
+  }
+
+.nav-table {
+    padding: auto;
+    letter-spacing: 2px;
+    border-spacing: 20px;
+    text-transform: uppercase;
+  }
+
+  a {
+    text-decoration: none;
+    font-size: 1.25em;
+    color: #000500ff;
+  }
+
+  a:hover {
+    font-weight: bolder;
+  }
