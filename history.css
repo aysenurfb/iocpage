@@ -41,6 +41,16 @@ p{
     font-size: 25px;
 }
 
+h2{
+    font-family: 'Cabin', sans-serif;
+    font-size: 35px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    color:skyblue;
+}
+
 footer{
     float: left;
     width: 1330px;
