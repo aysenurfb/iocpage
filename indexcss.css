@@ -51,14 +51,17 @@ ul{
     padding: 0;
 }
 
-li.a{
+li{
     float: left;
+}
+a{
     font-family: 'Cabin', sans-serif;
     font-size: 15px;
     display: block;
     text-align: center;
+    text-decoration: none;
 }
-
 a:hover{
     font-weight: bolder;
+    text-decoration: underline;
 }
