@@ -36,7 +36,7 @@ img{
     height: 300px;
 }
 
-p.li{
+p{
     font-family: 'Cabin', sans-serif;
     font-size: 25px;
 }
@@ -53,7 +53,7 @@ h2{
 
 #sportsdiv{
     margin-top: 10px;
-    width: auto;
+    width: 1000px;
     height: auto;
     padding-left: 350px;
     float: left;
@@ -63,6 +63,23 @@ h2{
     margin-top: 10px;
     width: 630px;
     height: auto;
+    float: left;
+}
+
+#sportslist{
+    float: left; 
+    width: 50px; 
+    height: auto; 
+    margin: 10px auto 0 auto;
+}
+
+ul{
+    list-style: none;
+    margin-left: 550px;
+}
+li{
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
 }
 
 footer{
