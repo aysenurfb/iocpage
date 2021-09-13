@@ -1,9 +1,11 @@
 #all{
     width: 1330px;
     background-color:red;
+    height:800px;
 }
 
 .header1{ 
+    background-color: rosybrown;
     width: 1330px; 
     height: auto; 
     padding: 10px;
