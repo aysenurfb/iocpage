@@ -37,26 +37,3 @@ p{
     height: auto;
 }
 
-nav{
-    float: left;
-    background: mediumturquoise;
-    width: 1340px;
-}
-
-a{
-    font-family: 'Cabin', sans-serif;
-    font-size: 15px;
-    text-decoration: none;
-}
-
-a:hover {
-    font-weight: bolder;
-  }
-
-.nav-table {
-    padding: auto;
-    letter-spacing: 2px;
-    border-spacing: 20px;
-    text-transform: uppercase;
-    text-align: center;
-  }
