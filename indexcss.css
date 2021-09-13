@@ -1,3 +1,11 @@
+.all{
+    width: 1330px;
+    background-color:moccasin;
+}
+
 .header1{
-    background-color: bisque; width: 1330px; height: auto; padding: 10px;
+    background-color: bisque; 
+    width: 1330px; 
+    height: auto; 
+    padding: 10px;
 }
