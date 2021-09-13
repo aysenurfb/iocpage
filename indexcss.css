@@ -86,7 +86,7 @@ h3{
     top: 10px;
     font-family: 'Cabin', sans-serif;
     font-size: 35px;
-    left: 40px;
+    left: 30px;
 }
 
 #wharticle{
@@ -94,7 +94,7 @@ h3{
     top: 60px;
     font-family: 'Cabin', sans-serif;
     font-size: 25px;
-    left: 40px;
+    left: 30px;
 }
 
 #ringarticle{
@@ -102,5 +102,18 @@ h3{
     top: 60px;
     font-family: 'Cabin', sans-serif;
     font-size: 25px;
-    left: 40px;
+    left: 30px;
+}
+
+footer{
+    float: left;
+    width: 1324px;
+    height: auto;
+    background-color:teal;
+    
+}
+#footerp{
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+    padding-left: 430px;
 }
