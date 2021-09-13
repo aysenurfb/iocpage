@@ -39,6 +39,10 @@ p{
 
 nav{
     float: left;
-
+    background: mediumturquoise;
 }
 
+a{
+    font-family: 'Cabin', sans-serif;
+    font-size: 15px;
+}
