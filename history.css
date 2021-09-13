@@ -25,7 +25,6 @@ div{
     float: left;
     width: 433px;
     height: 300px;
-    background-color: slateblue;
 }
 
 .tumresimler{
@@ -33,6 +32,10 @@ div{
     height: auto;
 }
 
+img{
+    width: 433px;
+    height: 300px;
+}
 
 footer{
     float: left;
