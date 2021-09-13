@@ -68,23 +68,23 @@ a:hover{
     font-weight: bolder;
 }
 
-#arkaplan{
-    opacity: 0.5;
-    width: 1330px;
-    height: auto;
+.image{
     position: relative;
-}
+    float: left;
 
-#motto{
-    
-    font-family: 'Cabin', sans-serif;
-    font-size: 35px;
-    font-weight: bolder;
+}
+h2{
     position: absolute;
+    top: 140px;
+    font-family: 'Cabin', sans-serif;
+    font-size: 55px;
+    left: 400px;
 }
 
 h3{
+    position: absolute;
+    top: 300px;
     font-family: 'Cabin', sans-serif;
-    font-size: 30px;
-    font-weight: bolder;
+    font-size: 35px;
+    left: 40px;
 }
