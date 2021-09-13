@@ -36,7 +36,7 @@ img{
     height: 300px;
 }
 
-p{
+p.li{
     font-family: 'Cabin', sans-serif;
     font-size: 25px;
 }
@@ -49,6 +49,20 @@ h2{
     margin-right: auto;
     margin-bottom: 20px;
     color:skyblue;
+}
+
+#sportsdiv{
+    margin-top: 10px;
+    width: auto;
+    height: auto;
+    padding-left: 350px;
+    float: left;
+}
+
+#sportsimg{
+    margin-top: 10px;
+    width: 630px;
+    height: auto;
 }
 
 footer{
