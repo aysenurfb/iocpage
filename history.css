@@ -36,6 +36,11 @@ img{
     height: 300px;
 }
 
+p{
+    font-family: 'Cabin', sans-serif;
+    font-size: 25px;
+}
+
 footer{
     float: left;
     width: 1330px;
