@@ -15,7 +15,7 @@
     padding: 10px 300px;
 }
 
-p{
+p.td{
     font-family: 'Cabin', sans-serif;
 }
 
@@ -40,5 +40,5 @@ p{
 
 nav{
     float: left;
-    
+
 }
